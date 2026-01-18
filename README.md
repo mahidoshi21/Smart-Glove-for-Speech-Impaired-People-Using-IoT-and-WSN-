@@ -51,7 +51,8 @@ The detailed objectives of the project include:
 ---
 
 ## 📤 Block Diagram
-![WhatsApp Image 2026-01-18 at 5 31 44 PM](https://github.com/user-attachments/assets/68289ea2-e31e-491e-b91d-06ff1a01ec75)
+
+![WhatsApp Image 2026-01-18 at 5 31 44 PM](https://github.com/user-attachments/assets/3e87eb51-5a28-4992-8d73-10870f85b802)
 
 ---
 
@@ -66,11 +67,9 @@ The detailed objectives of the project include:
   - **WASHROOM**
 - Provides real-time and reliable gesture-to-text communication
 
-<img width="921" height="520" alt="image" src="https://github.com/user-attachments/assets/7fa1c426-1312-42cb-aa28-45e02762c995" />
+<img width="921" height="520" alt="image" src="https://github.com/user-attachments/assets/ee15f8ec-d22e-4933-bfa9-8d1e594c3430" />
 
-
-
-![WhatsApp Image 2026-01-18 at 5 34 36 PM](https://github.com/user-attachments/assets/df2882f1-6635-4c97-9847-ff2d0892299a)
+![WhatsApp Image 2026-01-18 at 5 34 36 PM](https://github.com/user-attachments/assets/63ff0828-d77b-460c-9cda-96cafb1da92a)
 
 ---
 
